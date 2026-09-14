@@ -1,0 +1,7 @@
+  green:
+  id:30
+  orange:
+  id:40
+  ports:
+  1: [10]
+  2: [30]
